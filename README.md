@@ -24,7 +24,7 @@ Spreadsheet function call
 
 Output
 ```
-6
+2 + 4 = 6
 ```
 
 ![alt text](screenshot.png)
