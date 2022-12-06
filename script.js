@@ -41,7 +41,7 @@ function GPT3() {
   // create prompt for gpt-3
   var prompt = Array.prototype.slice.call(arguments, 0).join(' ').trim()
   if (prompt == "") {
-    return "Error Empty Input"
+    return "#Error Empty Input"
   }
 
   // call open-ai with prompt
