@@ -8,7 +8,7 @@
 4. Replace `<OPENAI_API_KEY>` with your open-ai api key
 
 ### Usage
-To use this simple GPT3 app script call the following function in your spreadsheet
+To use this simple GPT3 app script call the following function in your spreadsheet. The function concatenates the inputs and creates a prompt which is sent to GPT3.
 ```
 GPT3(arg1, arg2, ...)
 ```
