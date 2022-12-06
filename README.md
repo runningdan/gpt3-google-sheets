@@ -22,6 +22,11 @@ Spreadsheet function call
 =GPT3("add", C4, "and", D4, "together")
 ```
 
+The prompt sent to GPT-3 would be
+```
+"add 2 and 4 together"
+```
+
 Output
 ```
 2 + 4 = 6
