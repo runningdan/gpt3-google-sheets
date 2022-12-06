@@ -4,7 +4,7 @@
 ### Setup
 1. Open your google sheet
 2. Navigate to Extensions > Apps Script
-3. Paste in the script located in `GPT3.js`
+3. Paste in the script located in the file `script.js`
 4. Replace `<OPENAI_API_KEY>` with your open-ai api key
 
 ### Usage
